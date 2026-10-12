@@ -1,0 +1,55 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>school webpage</title>
+
+</head>
+
+<body>
+
+<!-- tias -->
+
+<h1>My College</h1>
+
+<p>
+
+Welcome to our college tias.<br>
+
+We offer different courses.<br>
+
+Students can choose their preferred course.
+
+</p>
+
+<hr>
+
+<!-- Course section -->
+
+<h2>Courses</h2>
+
+<p>BCA</p>
+
+<p>Bcom</p>
+
+<p>BBA</p>
+
+<P>BA eng</P>
+
+<!--
+
+The following section can be added later-->
+
+<hr>
+
+<h2>9999999999</h2>
+
+<p>Email: tias22@gmail.com</p>
+
+</body>
+
+</html>
